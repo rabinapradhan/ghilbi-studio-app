@@ -1,4 +1,27 @@
 # Studio Ghibli Films
 
-<p> An application that uses the -[The Studio Ghibli API](https://ghibliapi.herokuapp.com/#) to provide an index of their films and details so you can choose your favorite to watch. You can click on each card to get more details, and search by any of the details provided by the app: title, director, producer, etc! </p>
-https://rabinapradhan.github.io/ghilbi-studio-app/
+<p> An application that uses the <a href="https://ghibliapi.herokuapp.com/">Studio Ghilbi API</a> that provides search functionality and the list of ghilbi films.</p>
+> This application was built with React.
+
+## Live Demo Below
+- <a href="https://rabinapradhan.github.io/ghilbi-studio-app/">Live Demo Link </a>
+
+### Built With
+
+- React
+- React Hooks
+- Styled Components
+- [The Studio Ghibli API](https://ghibliapi.herokuapp.com/#)
+
+
+### Dependencies
+
+"dependencies": {
+ "gh-pages": "^4.0.0",
+ "react": "^18.2.0",
+ "react-dom": "^18.2.0",
+"react-icons": "^4.4.0",
+"react-router-dom": "^6.3.0",
+"react-scripts": "5.0.1",
+"styled-components": "^5.3.5",
+}
